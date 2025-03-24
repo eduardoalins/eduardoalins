@@ -21,6 +21,8 @@ Obrigado por visitar meu perfil!
   <img alt="Static Badge" src="https://img.shields.io/badge/Python-a?logo=Python&logoColor=white&color=blue">
   <img alt="Static Badge" src="https://img.shields.io/badge/Java-a?logo=openjdk&logoColor=white&color=blue">
   <img alt="Static Badge" src="https://img.shields.io/badge/-asdasd?style=flat&logo=C&logoColor=white&color=blue">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Assembly-a?style=for-the-badge&logo=gnuassembly&logoColor=white&color=blue">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Arduino-a?style=for-the-badge&logo=Arduino&logoColor=white&color=blue">
   <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-a?style=flat&logo=MySQL&logoColor=white&color=blue">
   <img alt="Static Badge" src="https://img.shields.io/badge/Django-a?style=flat&logo=Django&logoColor=white&color=blue">
   <img alt="Static Badge" src="https://img.shields.io/badge/SpringBoot-a?style=flat&logo=SpringBoot&logoColor=white&color=blue">
