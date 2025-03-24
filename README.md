@@ -10,8 +10,9 @@ Meu objetivo? Tornar-me cada vez melhor no que faço!
 Sinta-se à vontade para explorar meus projetos e contribuir com sugestões, dicas ou colaborações.
 <br>
 <br>
-Fico lisonjeado com sua passagem. Se você quiser entrar em contato ou saber mais sobre meu trabalho, fique à vontade para me contatar.
+Fico lisonjeado com sua passagem. Se você quiser entrar em contato ou saber mais sobre meu trabalho, fique à vontade para me contatar
 dudu.a.lins@gmail.com
+
 Obrigado por visitar meu perfil!
 
 ----
