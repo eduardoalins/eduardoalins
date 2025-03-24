@@ -18,11 +18,11 @@ Obrigado por visitar meu perfil!
 
 ### Tecnologias e Ferramentas
 <div style="flex">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Python-a?logo=Python&logoColor=black&color=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Java-a?logo=openjdk&logoColor=black&color=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/-asdasd?style=flat&logo=C&logoColor=black&color=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-a?style=flat&logo=MySQL&logoColor=black&color=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Django-a?style=flat&logo=Django&logoColor=black&color=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/SpringBoot-a?style=flat&logo=SpringBoot&logoColor=black&color=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Azure-a?style=flat&logo=MicrosoftAzure&logoColor=black&color=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Python-a?logo=Python&logoColor=black&color=purple">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Java-a?logo=openjdk&logoColor=black&color=purple">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-asdasd?style=flat&logo=C&logoColor=black&color=purple">
+  <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-a?style=flat&logo=MySQL&logoColor=black&color=purple">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Django-a?style=flat&logo=Django&logoColor=black&color=purple">
+  <img alt="Static Badge" src="https://img.shields.io/badge/SpringBoot-a?style=flat&logo=SpringBoot&logoColor=black&color=purple">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Azure-a?style=flat&logo=MicrosoftAzure&logoColor=black&color=purple">
 </div>
