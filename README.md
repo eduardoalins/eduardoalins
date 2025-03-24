@@ -16,26 +16,13 @@ Obrigado por visitar meu perfil!
 
 ----
 
-### 🪄 Linguagens de programação
+### Tecnologias e Ferramentas
 <div style="flex">
   <img alt="Static Badge" src="https://img.shields.io/badge/Python-a?logo=Python&logoColor=black&color=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Java-a?logo=openjdk&logoColor=black&color=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/-asdasd?style=flat&logo=C&logoColor=black&color=white">
-</div>
-
-### 📦 Banco de dados
-<div style="flex">
-<img alt="Static Badge" src="https://img.shields.io/badge/MySQL-a?style=flat&logo=MySQL&logoColor=white&color=4479A1">
-</div>
-
-### 🔧 Frameworks
-<div style="flex">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Django-a?style=flat&logo=Django&logoColor=white&color=092E20">
-  <img alt="Static Badge" src="https://img.shields.io/badge/SpringBoot-a?style=flat&logo=SpringBoot&logoColor=white&color=6DB33F">
-</div>
-
-### ☁️ Serviços de nuvem
-
-<div style="flex">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Azure-a?style=flat&logo=MicrosoftAzure&logoColor=white&color=0078D4">
+  <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-a?style=flat&logo=MySQL&logoColor=white&color=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Django-a?style=flat&logo=Django&logoColor=white&color=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/SpringBoot-a?style=flat&logo=SpringBoot&logoColor=white&color=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Azure-a?style=flat&logo=MicrosoftAzure&logoColor=white&color=white">
 </div>
