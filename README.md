@@ -16,7 +16,7 @@ Obrigado por visitar meu perfil!
 
 ----
 
-### Tecnologias e Ferramentas
+<h3 align="center">Tecnologias e Ferramentas</h3>
 <div style="flex">
   <img alt="Static Badge" src="https://img.shields.io/badge/Python-a?logo=Python&logoColor=green&color=purple">
   <img alt="Static Badge" src="https://img.shields.io/badge/Java-a?logo=openjdk&logoColor=green&color=purple">
