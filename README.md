@@ -28,5 +28,7 @@ Obrigado por visitar meu perfil!
   <img alt="Django" src="https://img.shields.io/badge/Django-a?style=for-the-badge&logo=Django&logoColor=white&color=blue">
   <img alt="Spring Boot" src="https://img.shields.io/badge/SpringBoot-a?style=for-the-badge&logo=SpringBoot&logoColor=white&color=blue">
   <img alt="Azure" src="https://img.shields.io/badge/Azure-a?style=for-the-badge&logo=MicrosoftAzure&logoColor=white&color=blue">
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-a?style=for-the-badge&logo=Angular&logoColor=white&color=blue">
+
 </div>
 
