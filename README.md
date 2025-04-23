@@ -21,7 +21,7 @@ Obrigado por visitar meu perfil!
 <div align="center" style="flex">
   <img alt="Python" src="https://img.shields.io/badge/Python-a?style=for-the-badge&logo=Python&logoColor=white&color=blue">
   <img alt="Java" src="https://img.shields.io/badge/Java-a?style=for-the-badge&logo=openjdk&logoColor=white&color=blue">
-  <img alt="C" src="https://img.shields.io/badge/C-a?style=for-the-badge&logo=C&logoColor=white&color=blue">
+  <img alt="" src="https://img.shields.io/badge/C-a?style=for-the-badge&logo=C&logoColor=white&color=blue">
   <img alt="Assembly" src="https://img.shields.io/badge/Assembly-a?style=for-the-badge&logo=gnuassembly&logoColor=white&color=blue">
   <img alt="Arduino" src="https://img.shields.io/badge/Arduino-a?style=for-the-badge&logo=Arduino&logoColor=white&color=blue">
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-a?style=for-the-badge&logo=MySQL&logoColor=white&color=blue">
