@@ -4,9 +4,7 @@ Olá, me chamo Eduardo, um entusiasta de tecnologia e inovação.
 
 Atualmente, atuo na Brencorp como desenvolvedor de software.
 <br>
-<br>
 Sinta-se à vontade para explorar meus projetos e contribuir com sugestões, dicas ou colaborações.
-<br>
 <br>
 Se você quiser entrar em contato ou saber mais sobre meu trabalho, fique à vontade para me contatar
 dudu.a.lins@gmail.com ou caso queira saber um pouco mais [eduardoalins.com.br](https://eduardoalins.com.br/)
